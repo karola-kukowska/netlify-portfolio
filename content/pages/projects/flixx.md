@@ -4,8 +4,8 @@ title: Flixx
 date: '2024-01-01'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Live preview: https://melodic-pegasus-d2137a.netlify.app/ Netfilx-like movie
+  database with IMBD API.
 featuredImage:
   type: ImageBlock
   url: /images/project1.webp
