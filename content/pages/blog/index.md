@@ -32,7 +32,8 @@ styles:
 topSections:
   - type: ContactSection
     title: Contact Me
-    text: I'm look forward to hearing from you.
+    text: |
+      You have something in mind? Tell me more.
     form:
       type: FormBlock
       title: Title of the form
