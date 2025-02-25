@@ -25,16 +25,7 @@ projectFeed:
         - pl-4
         - pr-4
         - pb-12
-  actions:
-    - type: Button
-      label: Learn more
-      altText: ''
-      url: '/https://melodic-pegasus-d2137a.netlify.app/'
-      showIcon: false
-      icon: arrowRight
-      iconPosition: right
-      style: primary
-      elementId: ''
+  actions: []
 styles:
   title:
     textAlign: left
