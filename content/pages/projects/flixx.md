@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: Flixx
 date: '2024-01-01'
 client: Awesome client
 description: >-
