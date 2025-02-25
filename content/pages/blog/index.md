@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: You have something in mind? Tell me more.
+title: Contact Me
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
