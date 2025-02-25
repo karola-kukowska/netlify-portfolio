@@ -41,6 +41,14 @@
                 "url": "/",
                 "icon": "linkedin",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
