@@ -4,7 +4,7 @@ title: Flixx
 date: '2024-01-01'
 client: Awesome client
 description: >-
-  [Live preview]<https://melodic-pegasus-d2137a.netlify.app/> Netfilx-like movie
+  [Live preview](https://melodic-pegasus-d2137a.netlify.app/) Netfilx-like movie
   database with IMBD API.
 featuredImage:
   type: ImageBlock
