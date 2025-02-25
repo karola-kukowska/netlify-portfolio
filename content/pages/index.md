@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: ''
+    subtitle: 'Some '
     title: Recent Projects
   - type: ContactSection
     colors: colors-f
