@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/project1.webp
-  altText: Project image
+  altText: 'https://melodic-pegasus-d2137a.netlify.app/'
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
