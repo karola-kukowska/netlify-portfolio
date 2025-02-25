@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Get in Touch
+title: ''
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
