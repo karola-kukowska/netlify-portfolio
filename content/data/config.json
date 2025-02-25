@@ -76,7 +76,7 @@
                 "altText": "Netlify templates"
             }
         ],
-        "copyrightText": "<p>Created by Karola Kukowska 2025<p>\nPowered by [Netlify](https://www.netlify.com/)\n\n",
+        "copyrightText": "##### Created by Karola Kukowska 2025\nPowered by \\[Netlify]\\(https\\://www\\.netlify.com/)\n\n",
         "styles": {
             "self": {
                 "width": "narrow",
